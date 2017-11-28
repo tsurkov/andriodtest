@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestClear.iml" filepath="$PROJECT_DIR$/TestClear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andriodtest.iml" filepath="$PROJECT_DIR$/andriodtest.iml" />
       <module fileurl="file://D:\YandexDisk\Android\TestClear\presentation\app.iml" filepath="D:\YandexDisk\Android\TestClear\presentation\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
       <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
