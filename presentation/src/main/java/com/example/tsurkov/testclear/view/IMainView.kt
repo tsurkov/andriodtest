@@ -1,8 +1,6 @@
 package com.example.tsurkov.testclear.view
 
-/**
- * Created by tsurkov on 28.11.2017.
- */
-interface IMainView {
+
+interface IMainView:IBaseView {
     fun showText(text:String)
 }
